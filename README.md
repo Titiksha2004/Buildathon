@@ -180,15 +180,8 @@ Source: `all_48_cases_every_available_method.csv` (48 cases × methods × reques
 - **Policy adviser:** four current questions produced passages that were retrieved and copied exactly. Legal interpretation still needs human review.
 - **Isolated classifier candidate:** exact-label score improved from 8/16 to 13/16 on a small authored held-out split. Three explanation labels remain wrong. **Not promoted** to the controller.
 
-## 7. Limits and pending work
-
-- Synthetic data only. No real subscriber data is used.
-- Application-level simulation. No radio scheduling and no over-the-air 5G measurements.
-- No standards conformance claim (ITU-T Y.3172, Y.3181, 3GPP TS 23.501 are design references).
-- Legal and regulatory compliance is **not certified**. Substantive review by a policy expert is pending.
-- Sandbox and reference-code integration are pending.
-- The candidate classifier is small and authored. It is not evidence of general accuracy.
-- Only eight full agent traffic workflows are recorded.
+## 7. Project Demo
+https://drive.google.com/file/d/1Mk5V1PgFgGRr0rLjsOIO-23dceOSPO20/view?usp=sharing
 
 ## 8. References
 
