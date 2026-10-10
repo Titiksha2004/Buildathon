@@ -1,7 +1,7 @@
 # Context-Aware Agentic Orchestration of QoS and Adaptive Security in Resource-Constrained 5G Networks for Health and Education Sector
 
 Team **NetAxis**, RV College of Engineering, for the ITU AI for Good Build-a-thon 5.0.
-Team: Jaya Sri Jawahar Sripathy (leader), Titiksha Siva Priya K, Dr. Nagamani K. Mentor: Dr. Nethravathi K A.
+Team: Dr. Nethravathi K A(leader), Titiksha Siva Priya K, Jaya Sri Jawahar Sripathy , Dr. Nagamani K.
 
 This is a **synthetic, application-level research prototype**. It is not a live 5G network, a radio scheduler, or a certified emergency-communication system.
 
@@ -205,6 +205,7 @@ Source: `all_48_cases_every_available_method.csv` (48 cases × methods × reques
 - Leader: Dr. Nethravathi K A (nethravathika@rvce.edu.in)
 - Titiksha Siva Priya K (kamanatitikshas.ec23@rvce.edu.in)
 - Jaya Sri Jawahar Sripathy: team leader (jayasrijawahar.ec23@rvce.edu.in)
+- Dr. Nagamani K.
 
 
 
