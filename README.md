@@ -1,21 +1,25 @@
 # Context-Aware Agentic Orchestration of QoS and Adaptive Security in Resource-Constrained 5G Networks for Health and Education Sector
 
 Team **NetAxis**, RV College of Engineering, for the ITU AI for Good Build-a-thon 5.0.
-Team: Dr. Nethravathi K A(leader), Titiksha Siva Priya K, Jaya Sri Jawahar Sripathy , Dr. Nagamani K.
+Team: Dr. Nethravathi K A (leader), Titiksha Siva Priya K, Jaya Sri Jawahar Sripathy, Dr. Nagamani K.
 
-This is a **synthetic, education and healthcare application-level research prototype**.
+This is a **synthetic, health and education application-level research prototype**. It is not a live 5G network, a radio scheduler, or a certified emergency-communication system.
 
 ---
 
 ## 1. The problem
 
-When a station, festival, or campus is crowded, demand exceeds the capacity of the network. Existing prioritisation usually looks only at an application label. That is not enough:
+Hospitals, clinics, schools, and colleges depend on mobile networks that can become congested. When many people use the same cell at once, for example during a local outbreak, a public examination, or a campus event, demand exceeds the capacity available. Two kinds of service then compete for the same limited capacity:
 
-- An emergency call needs immediate service.
-- A confidential medical file may tolerate delay, but it must keep strong protection.
-- Protection itself costs bandwidth, CPU time, and delay.
+- **Health services:** an urgent clinical call (for example, a remote consultation or an emergency referral) needs immediate service. A confidential patient file may tolerate some delay, but it must keep strong protection, and it does not gain emergency priority just because it is sensitive.
+- **Education services:** a live class or a live assessment needs a steady, timely stream. Routine clinical calls and background traffic can wait.
 
-The system must therefore decide, together, **how much capacity each flow gets** and **which protection it receives**, without ever removing required protection.
+Existing prioritisation usually looks only at an application label. That is not enough, because:
+
+- An urgent call and a confidential file are both "important" in different ways, and they need different treatment.
+- Protection itself costs bandwidth, CPU time, and delay, so a secure transfer may not fit when capacity is low.
+
+The system must therefore decide, together, **how much capacity each flow gets** and **which protection it receives**, without ever removing required protection. Non-priority traffic, such as public photo uploads and entertainment video, is treated as background load in the simulation.
 
 ## 2. Novelty
 
@@ -202,12 +206,10 @@ Source: `all_48_cases_every_available_method.csv` (48 cases × methods × reques
 11. Government of India. National Cyber Security Policy, 2013. https://www.meity.gov.in/writereaddata/files/National_cyber_security_policy-2013_0.pdf
 
 ## 9. Team
-- Leader: Dr. Nethravathi K A (nethravathika@rvce.edu.in)
+
+- Dr. Nethravathi K A: team leader (nethravathika@rvce.edu.in)
 - Titiksha Siva Priya K (kamanatitikshas.ec23@rvce.edu.in)
-- Jaya Sri Jawahar Sripathy: team leader (jayasrijawahar.ec23@rvce.edu.in)
-- Dr. Nagamani K.
-
-
-
+- Jaya Sri Jawahar Sripathy (jayasrijawahar.ec23@rvce.edu.in)
+- Dr. Nagamani K (nagamanik@rvce.edu.in)
 
 Organisation: RV College of Engineering, Bengaluru.
