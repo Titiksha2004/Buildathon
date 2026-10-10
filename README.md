@@ -23,8 +23,7 @@ The system must therefore decide, together, **how much capacity each flow gets**
 
 ## 2. Novelty
 
-The contribution is the combination below. We do not claim that any single part is new, and we do not claim a first-of-its-kind or patentable result. The benefit of the combination must be established by the comparative evaluation, which is still in progress.
-
+The contribution is the combination below.
 1. **Urgency and sensitivity are separate inputs.** A sensitive file does not automatically receive emergency priority, and an emergency does not automatically remove a file's protection.
 2. **Joint choice of resources and security.** The allocator evaluates pre-approved protection profiles using their measured costs (overhead, CPU, added delay) and picks a feasible combination with the rates.
 3. **Agents propose, fixed code decides.** Language-model agents interpret context and propose actions. A numerical allocator and a rule-based validator decide what can run. A document can never grant permission to act.
