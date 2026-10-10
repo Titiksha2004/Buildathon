@@ -3,7 +3,7 @@
 Team **NetAxis**, RV College of Engineering, for the ITU AI for Good Build-a-thon 5.0.
 Team: Dr. Nethravathi K A(leader), Titiksha Siva Priya K, Jaya Sri Jawahar Sripathy , Dr. Nagamani K.
 
-This is a **synthetic, application-level research prototype**. It is not a live 5G network, a radio scheduler, or a certified emergency-communication system.
+This is a **synthetic, education and healthcare application-level research prototype**.
 
 ---
 
