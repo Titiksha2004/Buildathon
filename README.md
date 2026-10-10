@@ -202,10 +202,11 @@ Source: `all_48_cases_every_available_method.csv` (48 cases × methods × reques
 11. Government of India. National Cyber Security Policy, 2013. https://www.meity.gov.in/writereaddata/files/National_cyber_security_policy-2013_0.pdf
 
 ## 9. Team
-
-- Jaya Sri Jawahar Sripathy: team leader (jayasrijawahar.ec23@rvce.edu.in)
+- Leader: Dr. Nethravathi K A (nethravathika@rvce.edu.in)
 - Titiksha Siva Priya K (kamanatitikshas.ec23@rvce.edu.in)
-- Dr. Nagamani K (nagamanik@rvce.edu.in)
-- Mentor: Dr. Nethravathi K A
+- Jaya Sri Jawahar Sripathy: team leader (jayasrijawahar.ec23@rvce.edu.in)
+
+
+
 
 Organisation: RV College of Engineering, Bengaluru.
